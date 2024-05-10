@@ -20,7 +20,8 @@ f"src/{project_name}/constants/__init__.py",
 "params.yaml",
 "requirements.txt",
 "setup.py",
-"research/trials.ipynb"    
+"research/trials.ipynb" ,
+"templates/index.hml"   
 ]
 
 for filePath in list_of_files:
